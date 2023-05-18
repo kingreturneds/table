@@ -1,0 +1,40 @@
+h1{
+    color:rgb(121, 51, 42);
+    background-color: gray;
+    margin-top: auto;
+    width: 100%;
+    height: 100%;
+}
+p{
+   color: rgb(241, 231, 231);
+}
+th {
+    height: 2%;
+    width: 3%;
+    background-color: rgb(94, 4, 4);
+}
+body{
+    background-image: url(wp9086065crop.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+h1 {
+    font-size: 60px;
+    background-color: gray;
+  }
+td {
+    padding: 8px;
+    color: white;
+}
+table{
+    border-collapse: collapse;
+    text-align: middle;
+}
+b {
+    color: blanchedalmond;
+}
+pre{
+    font-size: xx-large;
+  
+}
